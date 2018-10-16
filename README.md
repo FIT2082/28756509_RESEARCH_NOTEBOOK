@@ -19,3 +19,5 @@
 <a href="https://github.com/FIT2082/28756509_RESEARCH_NOTEBOOK/blob/master/week_8.md">Week 8 Workbook</a>
 
 <a href="https://github.com/FIT2082/28756509_RESEARCH_NOTEBOOK/blob/master/week_9.md">Week 9 Workbook</a>
+
+<a href="https://github.com/FIT2082/28756509_RESEARCH_NOTEBOOK/blob/master/week_10.md">Week 10 Workbook</a>
