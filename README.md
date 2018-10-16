@@ -1,6 +1,6 @@
 # FIT2082 Research Project - Teaching Dave English
 
-Project Workbook by Zidan (Danie) Huang
+## Project Workbook by Zidan (Danie) Huang
 
 <a href="https://github.com/FIT2082/28756509_RESEARCH_NOTEBOOK/blob/master/week_1.md">Week 1 Workbook</a>
 
